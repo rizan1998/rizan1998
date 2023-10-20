@@ -23,11 +23,6 @@ I specialize in building robust backends that do all the heavy lifting for your 
 <br/>  
 
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-
-
 </td><td valign="top" width="50%">
 
 <div align="center">  
