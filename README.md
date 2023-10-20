@@ -15,9 +15,9 @@
 
 
 ### Glad to see you here!  
-I’m a full-stack web developer who has turned years of freelancing into a full-time career. Being a full-stack allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support.
+Hi, I am Muhammad Rijan Alpalah, a junior full stack web developer from Indonesia. I have been starting my career in the programming field in the past few years and I want to become a senior full stack web developer.
 
-I specialize in building robust backends that do all the heavy lifting for your app or website. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
+I will try my best until I can go international and make my own product.
   
 
 </td><td valign="top" width="50%">
