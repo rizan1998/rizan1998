@@ -79,8 +79,6 @@ I will try my best until I can go international and make my own product.
   
 
 <br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square)  
   
 
 <br/>  
